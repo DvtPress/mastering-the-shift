@@ -1,4 +1,4 @@
-# Azure Log Monitoring Arhitecture Instructions
+# Azure Log Monitoring Architecture Instructions
 
 > Commands issued
 ```
