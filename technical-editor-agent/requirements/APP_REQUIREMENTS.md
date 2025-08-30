@@ -1,11 +1,3 @@
-# Technical Editing Agent Claude-Flow Instructions
-
-> Commands issued
-```
-npx claude-flow swarm "Create implementation plan for application described in APP_REQUIREMENTS.md in folder requirements. Place the implementation plan in folder plans. Do not implement the feature additions yet. Please let me know if you need additional information." --claude
-```
-
-> Content of ```APP_REQUIREMENTS.md```
 Create an AI agent that allows a user to supply folder with book content and have it fact checked and the text edited for clarity, accuracy, consistency, usability for readers.
 - Book content input is Leanpub markdown format (https://leanpub.com/lfm/read)
 - Allow the user to specify use of either the OpenAI API (version gpt-5) or Claude API (Claude Sonnet 4)
